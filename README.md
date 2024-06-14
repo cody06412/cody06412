@@ -19,13 +19,13 @@ Here are some icons that I'm proficient in:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,babel,bash,c,cloudflare,discord,bots,django,electron,express,fastapi,firebase,git,gitlab,gmail,java,js,jquery,linux,md,matlab,mongodb,mysql,nginx,nodejs,npm,opencv,postgres,postman,powershell,processing,pycharm,py,pytorch,qt,stackoverflow,sklearn,selenium,tensorflow,threejs,ts,ubuntu,vercel,webpack,yarn" />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,babel,bash,c,cloudflare,discord,bots,django,electron,express,fastapi,firebase,git,gitlab,gmail,java,js,jquery,linux,md,matlab,mongodb,mysql,nginx,nodejs,npm,opencv,postgres,postman,powershell,processing,pycharm,py,pytorch,qt,stackoverflow,sklearn,selenium,tensorflow,threejs,ts,ubuntu,vercel,webpack" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,yarn,c,vim" />
   </a>
 </p>
 ### Data Science
