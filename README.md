@@ -11,6 +11,23 @@ I'm Danil, a Data Scientist with a passion for extracting insights from data.
 
 Here are some icons that I'm proficient in:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,aiscript,python,docker,vscode,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,babel,bash,c,cloudflare,discord,bots,django,electron,express,fastapi,firebase,git,gitlab,gmail,java,js,jquery,linux,md,matlab,mongodb,mysql,nginx,nodejs,npm,opencv,postgres,postman,powershell,processing,pycharm,py,pytorch,qt,stackoverflow,sklearn,selenium,tensorflow,threejs,ts,ubuntu,vercel,webpack,yarn" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ### Data Science
 
 📊 **Python** 💻
