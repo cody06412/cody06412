@@ -1,17 +1,5 @@
 
-# About Me
-
-I'm Danil, a Data Scientist with a passion for extracting insights from data.
-
-## Get in touch
-
-* Email: upwork.adress06@gmail.com
-
-## Icons
-
-Here are some icons that I'm proficient in:
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,aiscript,python,docker,vscode,github" />
   </a>
@@ -23,11 +11,20 @@ Here are some icons that I'm proficient in:
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,yarn,c,vim" />
   </a>
 </p>
+
+# About Me
+
+I'm Danil, a Data Scientist with a passion for extracting insights from data.
+
+## Get in touch
+
+* Email: upwork.adress06@gmail.com
+
 ### Data Science
 
 📊 **Python** 💻
