@@ -49,5 +49,3 @@ I'm Danil, a Data Scientist with a passion for extracting insights from data.
 🔥 **Hadoop** 💻
 🔥 **Spark** 🔥
 🔥 **NoSQL databases** 💡
-
-Feel free to customize this template to fit your own style and expertise. Good luck with your GitHub profile!
