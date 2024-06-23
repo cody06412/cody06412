@@ -21,10 +21,6 @@
 
 I'm Danil, a Data Scientist with a passion for extracting insights from data.
 
-## Get in touch
-
-* Email: upwork.adress06@gmail.com
-
 ### Data Science
 
 📊 **Python** 💻
@@ -40,7 +36,8 @@ I'm Danil, a Data Scientist with a passion for extracting insights from data.
 
 ### Machine Learning
 
-🤖 **Supervised Learning** 💡
+🤖 **Supervised Learning**
+ 💡
 🤖 **Unsupervised Learning** 🔥
 🤖 **Reinforcement Learning** 🎯
 
