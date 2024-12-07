@@ -19,7 +19,7 @@
 
 # About Me
 
-I'm Michael, a Data Scientist with a passion for extracting insights from data.
+a Data Scientist with a passion for extracting insights from data.
 
 ### Data Science
 
